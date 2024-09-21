@@ -1,4 +1,4 @@
 # Catalog-Config-Gen-Remaster
 test it and see
 
-# YOU CAN MODIFY THIS IDC
+# THIS IS OPEN SOURCED FOR A REASON!!!!
